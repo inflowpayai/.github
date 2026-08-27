@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Product and account support
+    url: https://www.inflowpay.ai
+    about: Contact InFlow for private product, account, or integration support.
+  - name: Security vulnerability
+    url: https://github.com/inflowpayai/.github/blob/main/SECURITY.md
+    about: Report security vulnerabilities privately.
